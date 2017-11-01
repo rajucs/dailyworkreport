@@ -78,7 +78,7 @@
 		        		</table>
 		        		<div class="row">
 		        			<div class="col-md-offset-3 col-md-4">
-			        			<button type="submit" class="btn btn-success btn-sm text-center">Add More +</button>
+			        			<button type="submit" class="btn btn-success btn-sm text-center">Add More Field +</button>
 			        			<button type="submit" class="btn btn-success btn-sm text-center" name="dwf_submit" value="submit">SUBMIT</button>
 			        		</div>
 			        		<div class="col-md-3">
@@ -87,6 +87,26 @@
 			        		</div>
 		        		</div>
 	        		</form>
+	        	</div>
+	        </div>
+	        <div class="row">
+	        	<div class="col-md-12" style="background-color: #fff;min-height: 200px;">
+	        		<table class="table table-bordered text-justify">
+	        			<tr>
+	        				<th>SL No.</th>
+	        				<th>Assigned Job</th>
+	        				<th>Project Name</th>
+	        				<th>Progress(%)</th>
+	        				<th>Remarks</th>
+	        			</tr>
+	        			<tr>
+	        				<td>test</td>
+	        				<td>test</td>
+	        				<td>test</td>
+	        				<td>test</td>
+	        				<td>test</td>
+	        			</tr>
+	        		</table>
 	        	</div>
 	        </div>
         </div>
